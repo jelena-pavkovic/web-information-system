@@ -5,8 +5,8 @@ config.php
 
 # Baza podataka i lokalni dumperi (ako sadrže osetljive/test podatke)
 
-_.sql
-_.sqlite
+*.sql
+*.sqlite
 
 # Sistemski i OS fajlovi (Ubuntu / macOS / Windows)
 
@@ -18,8 +18,8 @@ Thumbs.db
 
 .idea/
 .vscode/
-_.suo
-_.user
+*.suo
+*.user
 
 # Apache / Server logovi
 
