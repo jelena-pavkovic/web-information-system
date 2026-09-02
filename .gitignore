@@ -1,0 +1,26 @@
+# Osetljivi fajlovi sa pristupnim parametrima za bazu
+
+conn.php
+config.php
+
+# Baza podataka i lokalni dumperi (ako sadrže osetljive/test podatke)
+
+_.sql
+_.sqlite
+
+# Sistemski i OS fajlovi (Ubuntu / macOS / Windows)
+
+.DS_Store
+Thumbs.db
+\*~
+
+# Fajlovi razvojnih okruženja (VS Code, WebStorm, PhpStorm)
+
+.idea/
+.vscode/
+_.suo
+_.user
+
+# Apache / Server logovi
+
+\*.log
